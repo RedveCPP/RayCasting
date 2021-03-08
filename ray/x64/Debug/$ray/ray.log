@@ -1,0 +1,46 @@
+﻿  Source.cpp
+C:\programy\c++\Projekty\ray\ray\Classes\Wall.hpp(27,54): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\programy\c++\Projekty\ray\ray\Classes\Wall.hpp(27,39): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\programy\c++\Projekty\ray\ray\Classes\Wall.hpp(28,56): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\programy\c++\Projekty\ray\ray\Classes\Wall.hpp(28,40): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\programy\c++\Projekty\ray\ray\Classes\Ray.hpp(41,55): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\programy\c++\Projekty\ray\ray\Classes\Ray.hpp(41,40): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\programy\c++\Projekty\ray\ray\Classes\Ray.hpp(42,51): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\programy\c++\Projekty\ray\ray\Classes\Ray.hpp(42,38): warning C4244: 'argument': conversion from 'const double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\programy\c++\Projekty\ray\ray\Classes\Player.hpp(37,79): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\programy\c++\Projekty\ray\ray\Classes\Player.hpp(37,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\programy\c++\Projekty\ray\ray\Classes\Player.hpp(46,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\programy\c++\Projekty\ray\ray\Classes\Player.hpp(46,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  ray.vcxproj -> C:\programy\c++\Projekty\ray\x64\Debug\ray.exe
